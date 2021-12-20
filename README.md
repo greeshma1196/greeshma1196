@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @greeshma1196
-- 👀 I’m interested in Fron End Development
+- 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
