@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @greeshma1196
-- 📫 You can reach me at greeshma.mathew@gmail.com
+Curious mind, always in beta.
 
 <!---
 greeshma1196/greeshma1196 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
